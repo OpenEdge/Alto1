@@ -1,5 +1,6 @@
-**Alto, Open Manufacturing Platform**
+Alto 1
+======
 
-See the [RepRap wiki](http://reprap.org/wiki/Alto) :)
+In this repository you will find the documentation and source files for the Alto 1 3D-printer. If you are missing a part or information of the Electronics feel free to file an issue on github.
 
-![Alto-333](https://raw.githubusercontent.com/OpenEdge/Alto/master/source/Alto_500px.jpg "Alto-333")
+See also the [RepRap wiki](http://reprap.org/wiki/Alto) :)
